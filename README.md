@@ -80,7 +80,16 @@ Support data-driven business decisions
 <h2>🖼️ Dashboard Preview</h2>
 
 <p>
-👉 (Add your Power BI dashboard screenshot link here)
+### 🔹 Overview Dashboard
+👉 <a href="https://github.com/Darsh-12hp/Financial-Power-Bi-Analysis/blob/main/Overview%20ANalysis.png">View Dashboard</a>
+
+### 🔹 Transaction Dashboard
+👉 <a href="https://github.com/Darsh-12hp/Financial-Power-Bi-Analysis/blob/main/Transaction%20ANalysis.jpg">View Dashboard</a>
+
+### 🔹 Data Modeling
+👉 <a href="https://github.com/Darsh-12hp/Financial-Power-Bi-Analysis/blob/main/Data%20Modeling.jpg">View Data Modeling</a>
+</p>
+
 </p>
 
 <h2>🎛️ Dashboard Filters</h2>
