@@ -1,76 +1,115 @@
-💰 Finance Analysis Dashboard
+<h1>💰 Finance Analysis Dashboard</h1>
 
+<p>
 📊 An interactive Power BI Data Analytics project focused on analyzing financial transactions, customer behavior, and business performance.
+</p>
 
-📌 Project Overview
+<h2>📌 Project Overview</h2>
 
-This project is built to analyze:
-
-📈 Financial Transactions
-👥 Customer Behavior
+<p>This project is built to analyze:<br>
+📈 Financial Transactions<br>
+👥 Customer Behavior<br>
 💸 Fees & Tax Performance
+</p>
 
-The dashboard provides insights into:
-
-✅ Total Transactions
-💰 Total Amount
+<p>The dashboard provides insights into:<br>
+✅ Total Transactions<br>
+💰 Total Amount<br>
 📊 Business Performance
-🎯 Project Objectives
-Track overall financial performance
-Analyze monthly transaction trends
-Identify high-performing customer segments
-Compare success vs failed transactions
+</p>
+
+<h2>🎯 Project Objectives</h2>
+
+<p>
+Track overall financial performance<br>
+Analyze monthly transaction trends<br>
+Identify high-performing customer segments<br>
+Compare success vs failed transactions<br>
 Support data-driven business decisions
-📂 Dataset
+</p>
 
+<h2>📂 Dataset</h2>
+
+<p>
 📁 (Add your dataset link here if uploaded on GitHub)
+</p>
 
-🛠️ Tools & Skills Used
-📊 Power BI
-🔄 Power Query (Data Cleaning)
-📌 DAX (KPI Calculations)
+<h2>🛠️ Tools & Skills Used</h2>
+
+<p>
+📊 Power BI<br>
+🔄 Power Query (Data Cleaning)<br>
+📌 DAX (KPI Calculations)<br>
 📉 Data Analysis & Visualization
-⚙️ Project Workflow
+</p>
 
-✔️ Understood business requirements
-✔️ Cleaned and transformed data
-✔️ Created KPIs using DAX
-✔️ Built interactive visuals
-✔️ Designed dashboard with slicers
+<h2>⚙️ Project Workflow</h2>
+
+<p>
+✔️ Understood business requirements<br>
+✔️ Cleaned and transformed data<br>
+✔️ Created KPIs using DAX<br>
+✔️ Built interactive visuals<br>
+✔️ Designed dashboard with slicers<br>
 ✔️ Performed trend & YoY analysis
+</p>
 
-📊 Dashboard Features
-💰 Total Amount (with YoY growth)
-🔢 Total Transactions
-📊 Average Transaction Value
-💸 Total Fees
+<h2>📊 Dashboard Features</h2>
+
+<p>
+💰 Total Amount (with YoY growth)<br>
+🔢 Total Transactions<br>
+📊 Average Transaction Value<br>
+💸 Total Fees<br>
 🧾 Total Tax
-📈 Visualizations
-📉 Monthly Transaction Trend
-🔄 Transaction Status (Success / Failed / Pending)
-👥 Customer Segment Analysis
-🗺️ State-wise Performance
-📋 Transaction Type Analysis
+</p>
+
+<h2>📈 Visualizations</h2>
+
+<p>
+📉 Monthly Transaction Trend<br>
+🔄 Transaction Status (Success / Failed / Pending)<br>
+👥 Customer Segment Analysis<br>
+🗺️ State-wise Performance<br>
+📋 Transaction Type Analysis<br>
 🚻 Gender-based Analysis
-🖼️ Dashboard Preview
+</p>
 
+<h2>🖼️ Dashboard Preview</h2>
+
+<p>
 👉 (Add your Power BI dashboard screenshot link here)
+</p>
 
-🎛️ Dashboard Filters
-📅 Year
-📊 Dynamic Measure
-👤 Occupation
+<h2>🎛️ Dashboard Filters</h2>
+
+<p>
+📅 Year<br>
+📊 Dynamic Measure<br>
+👤 Occupation<br>
 📂 Category
-📌 Key Insights
-📈 Identified monthly transaction trends
-👥 Found high-value customer segments
-🗺️ Top-performing states identified
-⚠️ Transaction success vs failure analyzed
-📊 Key Metrics
-Total Amount → Overall business value
-Transactions → Activity level
-Avg Transaction → Customer behavior
-Fees & Tax → Revenue insights
-🏁 Conclusion
+</p>
 
+<h2>📌 Key Insights</h2>
+
+<p>
+📈 Identified monthly transaction trends<br>
+👥 Found high-value customer segments<br>
+🗺️ Top-performing states identified<br>
+⚠️ Transaction success vs failure analyzed
+</p>
+
+<h2>📊 Key Metrics</h2>
+
+<p>
+Total Amount → Overall business value<br>
+Transactions → Activity level<br>
+Avg Transaction → Customer behavior<br>
+Fees & Tax → Revenue insights
+</p>
+
+<h2>🏁 Conclusion</h2>
+
+<p>
 This project shows how Power BI dashboards help in financial analysis, trend tracking, and better decision-making.
+</p>
