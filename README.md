@@ -31,7 +31,9 @@ Support data-driven business decisions
 <h2>📂 Dataset</h2>
 
 <p>
-📁 (Add your dataset link here if uploaded on GitHub)
+📁 <a href="https://github.com/Darsh-12hp/Financial-Power-Bi-Analysis/blob/main/finance_transactions.csv">Download Dataset</a>
+  
+ 📁 <a href=" https://github.com/Darsh-12hp/Financial-Power-Bi-Analysis/blob/main/customers%20(1).csv">Download Dataset</a>
 </p>
 
 <h2>🛠️ Tools & Skills Used</h2>
